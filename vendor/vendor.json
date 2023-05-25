@@ -171,10 +171,34 @@
 			"revisionTime": "2018-02-12T13:46:57Z"
 		},
 		{
+			"checksumSHA1": "ZVc3PMWCYbE2FEUG8VtK58lrM9A=",
+			"path": "github.com/dustin/go-humanize",
+			"revision": "bd1b3e1a20a1e20fca7346f89ecfaef77afe0474",
+			"revisionTime": "2023-03-17T19:50:25Z"
+		},
+		{
+			"checksumSHA1": "KV9QZOS7qxlVmOp9mvJDPSUtT9A=",
+			"path": "github.com/glebarez/go-sqlite",
+			"revision": "d6b976080750900c7a94b148d8a93f61e9b3b18b",
+			"revisionTime": "2023-04-27T11:59:19Z"
+		},
+		{
+			"checksumSHA1": "EjE8bUIy6wwIizsQBRgR4+QWAPw=",
+			"path": "github.com/glebarez/sqlite",
+			"revision": "1accfe103bf2becc42f19233e20996e8da65ace2",
+			"revisionTime": "2023-04-12T00:00:01Z"
+		},
+		{
 			"checksumSHA1": "nTHr8B2CPLP8kcJRtBEXluFvzUY=",
 			"path": "github.com/gogo/protobuf/proto",
 			"revision": "1ef32a8b9fc3f8ec940126907cedb5998f6318e4",
 			"revisionTime": "2018-03-30T17:46:43Z"
+		},
+		{
+			"checksumSHA1": "at9QGnWoLl3QGSfjyY7aGrCvNUo=",
+			"path": "github.com/google/uuid",
+			"revision": "44b5fee7c49cf3bcdf723f106b36d56ef13ccc88",
+			"revisionTime": "2021-07-12T22:33:52Z"
 		},
 		{
 			"checksumSHA1": "40vJyUB4ezQSn/NSadsKEOrudMc=",
@@ -199,6 +223,12 @@
 			"path": "github.com/jinzhu/inflection",
 			"revision": "04140366298a54a039076d798123ffa108fff46c",
 			"revisionTime": "2018-03-08T03:36:59Z"
+		},
+		{
+			"checksumSHA1": "a3JnUYmSpPogsPIl9vNzfE/Lt9c=",
+			"path": "github.com/jinzhu/now",
+			"revision": "f067b166b35a996b9ff5a0f610225e1458f23adc",
+			"revisionTime": "2022-03-17T06:16:25Z"
 		},
 		{
 			"checksumSHA1": "QJ9viP4pJ+snRnt+WKmZL4+Dj9M=",
@@ -261,6 +291,12 @@
 			"revisionTime": "2018-03-21T16:21:44Z"
 		},
 		{
+			"checksumSHA1": "67rPO7KYmVzwrkluEAjyOrB2CAU=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "c067b4f3df49dfc0f376d884e16cfd784ea1874b",
+			"revisionTime": "2023-03-22T15:51:17Z"
+		},
+		{
 			"checksumSHA1": "VibJh/oNzIw3tY0PCgReKMzrxf0=",
 			"path": "github.com/mattn/go-sqlite3",
 			"revision": "a72efd674f654961a11ac41aae72c0e43963fe6c",
@@ -289,6 +325,12 @@
 			"path": "github.com/pkg/errors",
 			"revision": "816c9085562cd7ee03e7f8188a1cfd942858cded",
 			"revisionTime": "2018-03-11T21:45:15Z"
+		},
+		{
+			"checksumSHA1": "r9piPJJs90aFseC/ELr6TukmZNA=",
+			"path": "github.com/remyoudompheng/bigfft",
+			"revision": "24d4a6f8daece64d3c9a7660d4ee0974c4e31021",
+			"revisionTime": "2023-01-29T09:26:49Z"
 		},
 		{
 			"checksumSHA1": "Ne3D+KJs1TU2trnDy1UCSwlXbAE=",
@@ -367,6 +409,212 @@
 			"path": "gopkg.in/yaml.v2",
 			"revision": "5420a8b6744d3b0345ab293f6fcba19c978f1183",
 			"revisionTime": "2018-03-28T19:50:20Z"
+		},
+		{
+			"checksumSHA1": "3Qt/QyoGJLhhM9o+0xOkZBCwJwE=",
+			"path": "gorm.io/gorm",
+			"revision": "8197c00def30911fea0e987d03835fbc6cbbbb59",
+			"revisionTime": "2023-05-25T03:10:00Z"
+		},
+		{
+			"path": "gorm.io/gorm/callbacks",
+			"revision": ""
+		},
+		{
+			"path": "gorm.io/gorm/clause",
+			"revision": ""
+		},
+		{
+			"path": "gorm.io/gorm/logger",
+			"revision": ""
+		},
+		{
+			"path": "gorm.io/gorm/migrator",
+			"revision": ""
+		},
+		{
+			"path": "gorm.io/gorm/schema",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "qOaJiZSjX6LtdbEsgxlAYAn3jys=",
+			"path": "gorm.io/gorm/utils",
+			"revision": "8197c00def30911fea0e987d03835fbc6cbbbb59",
+			"revisionTime": "2023-05-25T03:10:00Z"
+		},
+		{
+			"checksumSHA1": "kI1Q9cwA+7hEP8cwYijRKnMfso8=",
+			"path": "modernc.org/libc",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "H3Rtv8yEjggcHtew5uiAX5/aVZg=",
+			"path": "modernc.org/libc/errno",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "ElnJTNM+wbyb7x721CaP0tHGqC0=",
+			"path": "modernc.org/libc/fcntl",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "fQ6S/jQxkUPm4enOTIk/pBvRFDw=",
+			"path": "modernc.org/libc/fts",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "WG/733j2AzE4LoJlxp7egv0/c1Y=",
+			"path": "modernc.org/libc/grp",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "JNF5LM4usZqUHtl4wui5458KO9A=",
+			"path": "modernc.org/libc/honnef.co/go/netdb",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "3RK61xSsNrrjDUaZb8RmjINCa7s=",
+			"path": "modernc.org/libc/langinfo",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "lq0jpNggPmg+ZdNsKDlI88AYcbk=",
+			"path": "modernc.org/libc/limits",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "pV3SZgfQMPbUCCmUP4NIVpZFpUk=",
+			"path": "modernc.org/libc/netdb",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "pmd0H3DH6HTBOTBygvclFpojyzA=",
+			"path": "modernc.org/libc/netinet/in",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "lHkiUd4NoYCY1Q96N3FlrrkRmrc=",
+			"path": "modernc.org/libc/poll",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "qE6LZh6nhZwqIrFyHNcFA8E+Iw8=",
+			"path": "modernc.org/libc/pthread",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "xf4Xchlan0tqlPBVBv+HNmABpBw=",
+			"path": "modernc.org/libc/pwd",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "iwsmTzvUhA1MFKmBZURH2nCdfSw=",
+			"path": "modernc.org/libc/signal",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "RZrUgKt+Ksad78EqKUT7xqxhn54=",
+			"path": "modernc.org/libc/stdio",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "Zt4WDLksqrEDYUuRqaKuwyt1nCk=",
+			"path": "modernc.org/libc/stdlib",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "M8zoldaKBav6sVX3LVyuTJh9vwM=",
+			"path": "modernc.org/libc/sys/socket",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "A7fyyYAMoHEwm+bxdF/iHYeqCWQ=",
+			"path": "modernc.org/libc/sys/stat",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "ugCdgrZCfIKXRKwtmAf8WOaj7LI=",
+			"path": "modernc.org/libc/sys/types",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "is7E90v1YlXdK7TzY6UtwG5Nvus=",
+			"path": "modernc.org/libc/termios",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "wt+uIVTGR4F9rq0xoFo9tEa0hgQ=",
+			"path": "modernc.org/libc/time",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "OvENFPgVwmYyCIW8irtE3tNBM3Q=",
+			"path": "modernc.org/libc/unistd",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "vSH7WXSGLGh0dkk6a1dLOT/aryM=",
+			"path": "modernc.org/libc/utime",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "7s5Dq5tGKa3oux7kIC9GW1n1nD8=",
+			"path": "modernc.org/libc/uuid",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "JeP9PQ7bbCqDKMuB+R6ohMnA3XI=",
+			"path": "modernc.org/libc/uuid/uuid",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "53Bws85o859fbsAyUx6mB/z7SYQ=",
+			"path": "modernc.org/libc/wctype",
+			"revision": "9e5c74c2cd4807563b0cfc61b4d637d0aa54d218",
+			"revisionTime": "2023-05-07T12:42:43Z"
+		},
+		{
+			"checksumSHA1": "uOmcSpF1eSpCkHEYAL1P1KzOanI=",
+			"path": "modernc.org/mathutil",
+			"revision": "b13e5b5643328f15fd2fcedc85f647f0d8f9180f",
+			"revisionTime": "2022-08-22T14:27:38Z"
+		},
+		{
+			"checksumSHA1": "THsO10KP45gSYgsb2Qi+ShZosIY=",
+			"path": "modernc.org/memory",
+			"revision": "2014ace98d6392882e3d171baf4b76b21a0e7813",
+			"revisionTime": "2023-05-19T07:06:56Z"
+		},
+		{
+			"checksumSHA1": "IifdIbh399kLAlPTyr04CVhh1FI=",
+			"path": "modernc.org/sqlite/lib",
+			"revision": "dc681c2e0dd88bf45948c582346bacf105ab1f97",
+			"revisionTime": "2023-05-09T10:14:33Z"
 		}
 	],
 	"rootPath": "github.com/kassisol/hbm"
