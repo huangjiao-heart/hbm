@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/juliengk/go-utils/filedir"
 	"github.com/kassisol/hbm/cli/command"
 	"github.com/kassisol/hbm/cli/command/commands"
+	"github.com/kassisol/hbm/pkg/juliengk/go-utils/filedir"
 	"github.com/spf13/cobra/doc"
 )
 

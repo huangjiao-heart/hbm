@@ -17,9 +17,9 @@
 package main
 
 import (
-	"github.com/juliengk/go-log"
-	"github.com/juliengk/go-utils/user"
 	"github.com/kassisol/hbm/cli/command"
+	"github.com/kassisol/hbm/pkg/juliengk/go-log"
+	"github.com/kassisol/hbm/pkg/juliengk/go-utils/user"
 )
 
 func main() {

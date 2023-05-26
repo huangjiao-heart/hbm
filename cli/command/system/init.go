@@ -3,8 +3,6 @@ package system
 import (
 	"reflect"
 
-	"github.com/juliengk/go-utils"
-	"github.com/juliengk/go-utils/filedir"
 	"github.com/kassisol/hbm/docker/endpoint"
 	resourcepkg "github.com/kassisol/hbm/docker/resource"
 	rconfigdrv "github.com/kassisol/hbm/docker/resource/driver/config"
@@ -12,6 +10,8 @@ import (
 	groupobj "github.com/kassisol/hbm/object/group"
 	resourceobj "github.com/kassisol/hbm/object/resource"
 	"github.com/kassisol/hbm/pkg/adf"
+	"github.com/kassisol/hbm/pkg/juliengk/go-utils"
+	"github.com/kassisol/hbm/pkg/juliengk/go-utils/filedir"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

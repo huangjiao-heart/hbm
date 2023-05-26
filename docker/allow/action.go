@@ -3,11 +3,11 @@ package allow
 import (
 	"fmt"
 
-	"github.com/juliengk/go-log"
-	"github.com/juliengk/go-log/driver"
-	"github.com/juliengk/go-utils"
 	"github.com/kassisol/hbm/docker/allow/types"
 	policyobj "github.com/kassisol/hbm/object/policy"
+	"github.com/kassisol/hbm/pkg/juliengk/go-log"
+	"github.com/kassisol/hbm/pkg/juliengk/go-log/driver"
+	"github.com/kassisol/hbm/pkg/juliengk/go-utils"
 	"github.com/kassisol/hbm/version"
 )
 

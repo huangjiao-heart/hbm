@@ -3,9 +3,9 @@ package user
 import (
 	"fmt"
 
-	"github.com/juliengk/go-utils"
 	userobj "github.com/kassisol/hbm/object/user"
 	"github.com/kassisol/hbm/pkg/adf"
+	"github.com/kassisol/hbm/pkg/juliengk/go-utils"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

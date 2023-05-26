@@ -231,66 +231,6 @@
 			"revisionTime": "2022-03-17T06:16:25Z"
 		},
 		{
-			"checksumSHA1": "QJ9viP4pJ+snRnt+WKmZL4+Dj9M=",
-			"path": "github.com/juliengk/go-docker/image",
-			"revision": "f5cda316edb720bb440ba601e70156782e013dbb",
-			"revisionTime": "2018-03-21T16:31:38Z"
-		},
-		{
-			"checksumSHA1": "aCD52FQVq1FK+aGh0RML8mnJ0lw=",
-			"path": "github.com/juliengk/go-log",
-			"revision": "57b916563bbbe1bfb22df55c1490583dfb9b46d3",
-			"revisionTime": "2017-10-02T01:23:38Z"
-		},
-		{
-			"checksumSHA1": "pu/tXZmOab25oUtlErcnUwQld5g=",
-			"path": "github.com/juliengk/go-log/driver",
-			"revision": "57b916563bbbe1bfb22df55c1490583dfb9b46d3",
-			"revisionTime": "2017-10-02T01:23:38Z"
-		},
-		{
-			"checksumSHA1": "g9V3CU0HrezX2XQk3QV95e+DNfo=",
-			"path": "github.com/juliengk/go-log/driver/standard",
-			"revision": "57b916563bbbe1bfb22df55c1490583dfb9b46d3",
-			"revisionTime": "2017-10-02T01:23:38Z"
-		},
-		{
-			"checksumSHA1": "7aL+m4RMdqfXnIRUXhUxBPUzzsQ=",
-			"path": "github.com/juliengk/go-mount",
-			"revision": "e7123cbaaaf638f8242e57e1f243ee3df0753f2f",
-			"revisionTime": "2017-04-06T14:12:35Z"
-		},
-		{
-			"checksumSHA1": "A8BsAO7UTh29anYIVPv0DobRcbg=",
-			"path": "github.com/juliengk/go-utils",
-			"revision": "20776979abdb7b88224d22b021041eaceb833659",
-			"revisionTime": "2018-03-21T16:21:44Z"
-		},
-		{
-			"checksumSHA1": "blC8BiiPdg4xYMXS6iOE7G7ueqI=",
-			"path": "github.com/juliengk/go-utils/filedir",
-			"revision": "20776979abdb7b88224d22b021041eaceb833659",
-			"revisionTime": "2018-03-21T16:21:44Z"
-		},
-		{
-			"checksumSHA1": "BHV6ZmUv64EI8AXwoJqP+6ccakk=",
-			"path": "github.com/juliengk/go-utils/json",
-			"revision": "20776979abdb7b88224d22b021041eaceb833659",
-			"revisionTime": "2018-03-21T16:21:44Z"
-		},
-		{
-			"checksumSHA1": "bcyUJOQ61uHV8fXCeAaoiLijVGQ=",
-			"path": "github.com/juliengk/go-utils/user",
-			"revision": "20776979abdb7b88224d22b021041eaceb833659",
-			"revisionTime": "2018-03-21T16:21:44Z"
-		},
-		{
-			"checksumSHA1": "og4tQBQGfx5/KU7HyZaVNu4Od70=",
-			"path": "github.com/juliengk/go-utils/validation",
-			"revision": "20776979abdb7b88224d22b021041eaceb833659",
-			"revisionTime": "2018-03-21T16:21:44Z"
-		},
-		{
 			"checksumSHA1": "67rPO7KYmVzwrkluEAjyOrB2CAU=",
 			"path": "github.com/mattn/go-isatty",
 			"revision": "c067b4f3df49dfc0f376d884e16cfd784ea1874b",
@@ -415,26 +355,6 @@
 			"path": "gorm.io/gorm",
 			"revision": "8197c00def30911fea0e987d03835fbc6cbbbb59",
 			"revisionTime": "2023-05-25T03:10:00Z"
-		},
-		{
-			"path": "gorm.io/gorm/callbacks",
-			"revision": ""
-		},
-		{
-			"path": "gorm.io/gorm/clause",
-			"revision": ""
-		},
-		{
-			"path": "gorm.io/gorm/logger",
-			"revision": ""
-		},
-		{
-			"path": "gorm.io/gorm/migrator",
-			"revision": ""
-		},
-		{
-			"path": "gorm.io/gorm/schema",
-			"revision": ""
 		},
 		{
 			"checksumSHA1": "qOaJiZSjX6LtdbEsgxlAYAn3jys=",

@@ -5,12 +5,12 @@ import (
 
 	"github.com/docker/docker/api/types/volume"
 	"github.com/docker/go-plugins-helpers/authorization"
-	"github.com/juliengk/go-log"
-	"github.com/juliengk/go-log/driver"
-	"github.com/juliengk/go-utils"
-	"github.com/juliengk/go-utils/json"
 	"github.com/kassisol/hbm/docker/allow/types"
 	policyobj "github.com/kassisol/hbm/object/policy"
+	"github.com/kassisol/hbm/pkg/juliengk/go-log"
+	"github.com/kassisol/hbm/pkg/juliengk/go-log/driver"
+	"github.com/kassisol/hbm/pkg/juliengk/go-utils"
+	"github.com/kassisol/hbm/pkg/juliengk/go-utils/json"
 	"github.com/kassisol/hbm/version"
 )
 

@@ -3,10 +3,10 @@ package resource
 import (
 	"fmt"
 
-	"github.com/juliengk/go-utils"
 	resourcepkg "github.com/kassisol/hbm/docker/resource"
 	resourceobj "github.com/kassisol/hbm/object/resource"
 	"github.com/kassisol/hbm/pkg/adf"
+	"github.com/kassisol/hbm/pkg/juliengk/go-utils"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

@@ -3,7 +3,7 @@ package user
 import (
 	"fmt"
 
-	"github.com/juliengk/go-utils/validation"
+	"github.com/kassisol/hbm/pkg/juliengk/go-utils/validation"
 	"github.com/kassisol/hbm/storage"
 	"github.com/kassisol/hbm/storage/driver"
 )

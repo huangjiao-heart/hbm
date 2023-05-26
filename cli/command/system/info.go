@@ -5,7 +5,6 @@ import (
 	"fmt"
 
 	"github.com/docker/docker/client"
-	"github.com/juliengk/go-utils"
 	collectionobj "github.com/kassisol/hbm/object/collection"
 	configobj "github.com/kassisol/hbm/object/config"
 	groupobj "github.com/kassisol/hbm/object/group"
@@ -13,6 +12,7 @@ import (
 	resourceobj "github.com/kassisol/hbm/object/resource"
 	userobj "github.com/kassisol/hbm/object/user"
 	"github.com/kassisol/hbm/pkg/adf"
+	"github.com/kassisol/hbm/pkg/juliengk/go-utils"
 	"github.com/kassisol/hbm/version"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"

@@ -3,7 +3,7 @@ package policy
 import (
 	"fmt"
 
-	"github.com/juliengk/go-utils"
+	"github.com/kassisol/hbm/pkg/juliengk/go-utils"
 )
 
 func isValidFilterKeys(filters map[string]string) error {

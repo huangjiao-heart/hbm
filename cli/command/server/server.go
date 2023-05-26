@@ -10,10 +10,10 @@ import (
 	"syscall"
 
 	"github.com/docker/go-plugins-helpers/authorization"
-	"github.com/juliengk/go-log"
-	"github.com/juliengk/go-log/driver"
-	"github.com/juliengk/go-utils/filedir"
 	"github.com/kassisol/hbm/pkg/adf"
+	"github.com/kassisol/hbm/pkg/juliengk/go-log"
+	"github.com/kassisol/hbm/pkg/juliengk/go-log/driver"
+	"github.com/kassisol/hbm/pkg/juliengk/go-utils/filedir"
 	"github.com/kassisol/hbm/plugin"
 	"github.com/kassisol/hbm/version"
 	"github.com/spf13/cobra"

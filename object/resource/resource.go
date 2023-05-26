@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/juliengk/go-docker/image"
-	"github.com/juliengk/go-utils"
-	"github.com/juliengk/go-utils/json"
-	"github.com/juliengk/go-utils/validation"
 	resourcepkg "github.com/kassisol/hbm/docker/resource"
 	"github.com/kassisol/hbm/object/types"
+	"github.com/kassisol/hbm/pkg/juliengk/go-docker/image"
+	"github.com/kassisol/hbm/pkg/juliengk/go-utils"
+	"github.com/kassisol/hbm/pkg/juliengk/go-utils/json"
+	"github.com/kassisol/hbm/pkg/juliengk/go-utils/validation"
 	"github.com/kassisol/hbm/storage"
 	"github.com/kassisol/hbm/storage/driver"
 )

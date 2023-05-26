@@ -5,11 +5,11 @@ import (
 	"net/url"
 
 	"github.com/docker/go-plugins-helpers/authorization"
-	"github.com/juliengk/go-docker/image"
-	"github.com/juliengk/go-log"
-	logdriver "github.com/juliengk/go-log/driver"
 	"github.com/kassisol/hbm/docker/allow/types"
 	policyobj "github.com/kassisol/hbm/object/policy"
+	"github.com/kassisol/hbm/pkg/juliengk/go-docker/image"
+	"github.com/kassisol/hbm/pkg/juliengk/go-log"
+	logdriver "github.com/kassisol/hbm/pkg/juliengk/go-log/driver"
 	"github.com/kassisol/hbm/version"
 )
 

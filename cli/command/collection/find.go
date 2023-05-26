@@ -3,9 +3,9 @@ package collection
 import (
 	"fmt"
 
-	"github.com/juliengk/go-utils"
 	collectionobj "github.com/kassisol/hbm/object/collection"
 	"github.com/kassisol/hbm/pkg/adf"
+	"github.com/kassisol/hbm/pkg/juliengk/go-utils"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

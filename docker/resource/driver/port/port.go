@@ -3,13 +3,13 @@ package port
 import (
 	"fmt"
 
-	"github.com/juliengk/go-utils/validation"
 	"github.com/kassisol/hbm/docker/resource"
 	"github.com/kassisol/hbm/docker/resource/driver"
+	"github.com/kassisol/hbm/pkg/juliengk/go-utils/validation"
 	"github.com/kassisol/hbm/pkg/utils"
 )
 
-type Config struct {}
+type Config struct{}
 
 func init() {
 	resource.RegisterDriver("port", New)
