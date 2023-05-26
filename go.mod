@@ -42,5 +42,6 @@ require (
 	golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1 // indirect
 	gopkg.in/airbrake/gobrake.v2 v2.0.9 // indirect
 	gopkg.in/gemnasium/logrus-airbrake-hook.v2 v2.1.2 // indirect
+	gorm.io/gorm v1.25.1 // indirect
 	gotest.tools v2.2.0+incompatible // indirect
 )
